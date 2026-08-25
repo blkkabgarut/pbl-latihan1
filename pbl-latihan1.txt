@@ -1,0 +1,4 @@
+Hari-hari Latihan
+- Hari Pertama Latihan Github
+- Hari Kedua Latihan Git
+- Hari Ketiga Latihan HTML
